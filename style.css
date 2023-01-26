@@ -187,11 +187,5 @@
         background-color:hsl(179, 100%, 13%);
         border: solid 2px hsl(0, 0%, 95%);
     }
-    footer{
-        position: absolute;
-        bottom: 0;
-        left: 35%;
-        text-align: center;
-    }
 }
 
